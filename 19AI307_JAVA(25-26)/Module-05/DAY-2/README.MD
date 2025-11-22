@@ -22,9 +22,6 @@ To write a Java program that reads a string from the user, compresses it using G
 11. End the program.
 
 
-
-
-
 ## PROGRAM:
  ```
 Program to implement a Serialization and Deserialization using Java
@@ -85,17 +82,13 @@ public class GZIPMemoryExample {
 }
 ```
 
-
-
-
-
-
 ## OUTPUT:
 ![java52](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/4629176025934c52170b68fd2b511f5724754685/19AI307_JAVA(25-26)/Module-05/DAY-2/java52.png)
 
 
 ## RESULT:
 Thus, the Java program to compress and decompress a string using ByteArrayOutputStream, GZIPOutputStream, ByteArrayInputStream, and GZIPInputStream was successfully implemented and executed.
+
 
 
 
