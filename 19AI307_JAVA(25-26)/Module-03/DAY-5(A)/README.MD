@@ -50,7 +50,8 @@ class prog{
 
 ## OUTPUT:
 
-![Program Output](./output.png)
+![Program Output](https://github.com/Yamunaasri/19AI307_ODD-25-26-/blob/main/19AI307_JAVA(25-26)/Module-03/Screenshot%202025-11-22%20103338.png)
 
 ## RESULT
 Thus, the Java program to check whether a number is a Palindrome was successfully executed.
+
