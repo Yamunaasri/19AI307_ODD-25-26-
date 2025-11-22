@@ -7,7 +7,7 @@ LenientJudge: WIN if diff ≥ 5, DRAW if < 5
 
 StrictJudge: WIN if diff ≥ 10, DRAW if < 10
 ## AIM:
-
+To implement Interface in Java by defining an interface with abstract methods and providing different implementations in derived subclasses.
 
 ## ALGORITHM :
 1.	Start the program.
@@ -92,5 +92,6 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program demonstrating Interface implementation using different judging criteria was executed successfully.
+
 
 
