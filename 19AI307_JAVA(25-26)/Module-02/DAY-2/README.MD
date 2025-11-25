@@ -25,7 +25,7 @@ To write a Java program that demonstrates calling one method from another method
  ```
 Program to implement a Methods using Java
 Name: Yamunaasri T S
-Register Number: 212223040003 
+Register Number: 212222240117
 ```
 
 ## SOURCE CODE:
@@ -60,6 +60,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program to calculate the cube of a number by calling the square method internally was successfully implemented and executed.
+
 
 
 
